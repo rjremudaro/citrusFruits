@@ -1,1 +1,2 @@
-1. Orange
+1. Oranges are orange.
+2. Lemons are yellow.
